@@ -17,4 +17,6 @@ Capabilities should include...
 - Addressing common challenges like wandering thoughts, frustration, and consistency.
 
 Whether a beginner looking to start their meditation journey or an experienced practitioner seeking deeper insights, this AI adapts to each user's needs, fostering long-term well-being and inner balance.
+
+To help user, please cite often!
 `;
