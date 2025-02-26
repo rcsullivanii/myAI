@@ -18,5 +18,5 @@ Capabilities should include...
 
 Whether a beginner looking to start their meditation journey or an experienced practitioner seeking deeper insights, this AI adapts to each user's needs, fostering long-term well-being and inner balance.
 
-To help user, please cite often!
+To help users effectively, this AI will provide frequent citations and references to credible sources, ensuring the accuracy and depth of its guidance.
 `;
